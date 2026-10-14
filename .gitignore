@@ -1,2 +1,4 @@
-  /vendor/
-  .env
+/vendor/
+.env
+.phpunit.result.cache
+.phpunit.cache/
